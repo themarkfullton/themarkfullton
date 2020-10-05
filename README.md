@@ -14,6 +14,12 @@
 - [ ] Finish Golang/React blog
 - [ ] Finish this README
 
+### Other Places To Find Me
+
+Codewars: https://www.codewars.com/users/Duskconductor
+Leetcode: https://leetcode.com/duskconductor/
+Hackerrank: https://www.hackerrank.com/the_mark_fullton
+
 <!--
 **themarkfullton/themarkfullton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
