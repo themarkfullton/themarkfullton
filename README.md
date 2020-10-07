@@ -21,7 +21,7 @@ Language/Stack agnostic.
 - [ ] Working with Lucky Cats on polishing [WitchFall](https://github.com/Lucky-Cat-Gamers/gamegame)
 
 ### Work Related Tasks
-- [ ] Moving LAMP Stack WordPress to new domain (pro bono)
+- [x] Moving LAMP Stack WordPress to new domain (pro bono)
 - [ ] Create React Native E-Commerse website (pro bono)
 - [ ] Preparing for upcoming Winter Data Visualization TA-ing
 
