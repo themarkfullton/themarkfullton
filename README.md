@@ -16,7 +16,10 @@
 - [ ] Finish Rust/React blog (Private Repo)
 - [ ] Finish Tutoring demos ([JQuery](https://github.com/themarkfullton/jquery-tutoring-project), [MERN](https://github.com/themarkfullton/MERN-tutoring), [PERN](https://github.com/themarkfullton/PERN-tutoring), [Kubernetes / Docker / Go](https://github.com/themarkfullton/kubernetes-tutoring), ...)
 - [ ] Working with Lucky Cats on polishing [WitchFall](https://github.com/Lucky-Cat-Gamers/gamegame)
+
+### Work Related Tasks
 - [ ] Moving LAMP Stack WordPress to new domain (pro bono)
+- [ ] Create React Native E-Commerse website (pro bono)
 - [ ] Preparing for upcoming Winter Data Visualization TA-ing
 
 
