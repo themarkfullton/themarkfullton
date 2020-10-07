@@ -7,7 +7,7 @@
 
 ### Current Tasks
 
-- [ ] Update [Portfolip](https://themarkfullton.github.io/vue-portfolio/)
+- [ ] Update [Portfolio](https://themarkfullton.github.io/vue-portfolio/)
 - [ ] Finish this README
 - [ ] Refactor [Transformation App/API](https://github.com/themarkfullton/the-transformation-app/tree/refactoring) (Especially API)
 - [ ] Finish [Go Brains Compiler]()
