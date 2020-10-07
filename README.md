@@ -2,8 +2,9 @@
 
 ### Part-Time Teacher; Full-Time Student
             
-[Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/)
+[WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/)
 
+Transgender technie with a passion for building, debugging, and designing dreams. Constantly seeking to ❶ learn new things, ❷ hone old skills, and ❸ share this knowledge with others. Passionate about Data Analysis, Cloud Technology (K8 enthusiast and Gopher), Machine Learning, Software Engineering, and Web Development.
 
 ### Current Tasks
 
