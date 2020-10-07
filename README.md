@@ -1,4 +1,4 @@
-## MARK FULLTON
+# MARK FULLTON
 
 ### Part-Time Teacher; Full-Time Student
             
