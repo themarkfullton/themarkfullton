@@ -6,26 +6,8 @@
             
 [WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/)
 
-Transgender technie with a passion for building, debugging, and designing dreams. Constantly seeking to ❶ learn new things, ❷ hone old skills, and ❸ share this knowledge with others. Passionate about Data Analysis, Cloud Technology (K8 enthusiast and Gopher), Machine Learning, Software Engineering, and Web Development.
+Transgender technie with a passion for building, debugging, and designing dreams. Constantly seeking to learn new things, hone old skills, and share this knowledge with others. Passionate about Data Analysis, Cloud Technology (K8 enthusiast and Gopher), 2D Game Dev, Machine Learning, Software Engineering, and Web Dev.
 
-Language/Stack agnostic.
-
-### Current Tasks
-
-- [ ] Update [Portfolio](https://themarkfullton.github.io/vue-portfolio/)
-- [ ] Finish this README
-- [ ] Refactor [Transformation App/API](https://github.com/themarkfullton/the-transformation-app/tree/refactoring) (Especially API)
-- [ ] Finish [Go Brains Compiler]()
-- [ ] Finish [Java/Spring API](https://github.com/themarkfullton/patchwork)
-- [ ] Finish Golang/React blog (Private Repo)
-- [ ] Finish Rust/React blog (Private Repo)
-- [ ] Finish Tutoring demos ([JQuery](https://github.com/themarkfullton/jquery-tutoring-project), [MERN](https://github.com/themarkfullton/MERN-tutoring), [PERN](https://github.com/themarkfullton/PERN-tutoring), [Kubernetes / Docker / Go](https://github.com/themarkfullton/kubernetes-tutoring), ...)
-- [ ] Working with Lucky Cats on polishing [WitchFall](https://github.com/Lucky-Cat-Gamers/gamegame)
-
-### Work Related Tasks
-- [x] Moving LAMP Stack WordPress to new domain (pro bono)
-- [ ] Create React Native E-Commerse website (pro bono)
-- [ ] Preparing for upcoming Winter Data Visualization TA-ing
 
 
 
