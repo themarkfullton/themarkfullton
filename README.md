@@ -11,6 +11,8 @@ Transgender technie with a passion for building, debugging, and designing dreams
 
 Jack of many trades but (unfortunately) not a __master__ of one--yet. Working towards it daily, though! 
 
+### Currently in the proccess of updating my portfolio; please excuse the sudden surge in JavaScript
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,html&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
 
