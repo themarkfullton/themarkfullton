@@ -4,11 +4,12 @@
 
 ### Part-Time Teacher; Full-Time Student
             
-[WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/)
+[WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/) | [Docker Hub](https://hub.docker.com/u/duskconductor)
+
 
 Transgender technie with a passion for building, debugging, and designing dreams. Constantly seeking to learn new things, hone old skills, and share this knowledge with others. Passionate about Data Analysis, Cloud Technology (K8 enthusiast and Gopher), 2D Game Dev, Machine Learning, Software Engineering, and Web Dev.
 
-
+Jack of many trades but (unfortunately) not a __master__ of one--yet. Working towards it daily, though! 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,html&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
