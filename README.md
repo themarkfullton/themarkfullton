@@ -1,4 +1,4 @@
-<img src="https://github.com/themarkfullton/themarkfullton.github.io/blob/master/src/assets/images/adventureBanner.png?raw=true">
+<img src="https://github.com/themarkfullton/portfolio/blob/master/public/images/adventureBanner.png?raw=true">
 
 # MARK FULLTON
 
