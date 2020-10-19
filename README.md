@@ -13,6 +13,12 @@ Jack of many trades but (unfortunately) not a __master__ of one--yet. Working to
 
 ### Currently in the proccess of updating my portfolio; please excuse the mess!
 
+#### UPDATES
+
+**10 - 18** Transformation API, Trans Techie Blog, and Patchwork all have working back ends--just need to Dockerize them. Running into issues with "exec_format_errors", so I need to research proper GOOS / GOARCH values. 
+
+**10 - 13** Finally fixed 'node-sass' bugs and installed. No longer have to deploy on Heroku each time I want to test WitchFall changes. Can do so locally.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,html&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
 
