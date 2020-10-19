@@ -15,6 +15,11 @@ Jack of many trades but (unfortunately) not a __master__ of one--yet. Working to
 
 #### UPDATES
 
+**Deploy to Heroku schedule:**
+- [x] (10/19) Transformation APP/API (V2)
+- [ ] (10/22) Patchwork
+- [ ] (10/25) Trans Techie Blog
+
 **10 - 18** Transformation API, Trans Techie Blog, and Patchwork all have working back ends--just need to Dockerize them. Running into issues with "exec_format_errors", so I need to research proper GOOS / GOARCH values. 
 
 **10 - 13** Finally fixed 'node-sass' bugs and installed. No longer have to deploy on Heroku each time I want to test WitchFall changes. Can do so locally.
