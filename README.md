@@ -17,8 +17,10 @@ Jack of many trades but (unfortunately) not a __master__ of one--yet. Working to
 
 **Deploy to Heroku schedule:**
 - [x] (10/19) Transformation APP/API (V2)
-- [ ] (10/22) Patchwork
-- [ ] (10/25) Trans Techie Blog
+- [ ] (10/24) Patchwork
+- [ ] (10/26) Trans Techie Blog
+
+**10 - 22** Patchwork Heroku deployment moved back due to front-end complications. Back-end (MVP) is ready to go, however.
 
 **10 - 18** Transformation API, Trans Techie Blog, and Patchwork all have working back ends--just need to Dockerize them. Running into issues with "exec_format_errors", so I need to research proper GOOS / GOARCH values. 
 
