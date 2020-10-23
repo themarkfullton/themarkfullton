@@ -11,7 +11,7 @@ Transgender technie with a passion for building, debugging, and designing dreams
 
 Jack of many trades but (unfortunately) not a __master__ of one--yet. Working towards it daily, though! 
 
-### Currently in the proccess of updating my portfolio; please excuse the mess!
+### Currently deploying featured web projects on Heroku; will then return back to Dockerize and move them into production
 
 #### UPDATES
 
