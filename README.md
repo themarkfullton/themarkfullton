@@ -2,7 +2,7 @@
 
 # MARK FULLTON
 
-### Data Science and Full Stack Web tutor | Data Science Teacher's Assistant | Freelance Web Dev (MERN/PERN/Django/Spring/WordPress) | Golang/Docker/Python enthusiast
+### Data Science and Full Stack Web tutor | Data Science Teacher's Assistant | Freelance Web Dev | Golang/Docker/Python enthusiast
             
 [WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/) | [Docker Hub](https://hub.docker.com/u/duskconductor) (Still learning, so not much there yet!)
 
