@@ -18,8 +18,8 @@ Jack of many trades but (unfortunately) not a __master__ of one--yet. Working to
 **Deploy to Heroku schedule:**
 - [x] (10/19) Transformation APP/API (V2)
 - [x] (10/24) Patchwork
-- [ ] (11/01) Trans Techie Blog
-- [ ] (11/05) Go Brains Compiler
+- [ ] (11/11) Trans Techie Blog
+- [ ] (11/15) Go Brains Compiler
 
 **10 - 28** Patchwork up on Heroku and ready for perusal. Now focusing on Trans Techie Blog
 
