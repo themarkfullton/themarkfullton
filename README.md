@@ -10,21 +10,6 @@ Transgender technie with a passion for building, debugging, and designing dreams
 
 Jack of many trades but (unfortunately) not a __master__ of one--yet. Working towards it daily, though! 
 
-### Currently deploying featured web projects on Heroku; will then return back to Dockerize and move them into production
-
-#### UPDATES
-
-**Deploy to Heroku schedule:**
-- [x] (10/19) Transformation APP/API (V2)
-- [x] (10/24) Patchwork
-- [ ] (11/11) Trans Techie Blog
-- [ ] (11/15) Go Brains Compiler
-
-**10 - 28** Patchwork up on Heroku and ready for perusal. Now focusing on Trans Techie Blog
-
-**10 - 22** Patchwork Heroku deployment moved back due to front-end complications. Back-end (MVP) is ready to go, however.
-
-**10 - 18** Transformation API, Trans Techie Blog, and Patchwork all have working back ends--just need to Dockerize them. Running into issues with "exec_format_errors", so I need to research proper GOOS / GOARCH values.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,html&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
