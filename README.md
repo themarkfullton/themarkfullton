@@ -11,9 +11,7 @@ Transgender technie with a passion for building, debugging, and designing dreams
 Jack of many trades but (unfortunately) not a __master__ of one--yet. Working towards it daily, though! 
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,html&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### TOP 5 LANGUAGES 
@@ -23,3 +21,10 @@ Jack of many trades but (unfortunately) not a __master__ of one--yet. Working to
 ### TOP DATABASE (SQL / NoSQL)
 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+
+
+--- 
+
+#### To anyone wondering about the sudden drop in commits:
+
+The bulk of my (non-work) time is currently being dedicated to studying Data Structures & Algorithms and Machine Learning concepts in an effort to make future code more efficient. (As a self-taught programmer, this is a gap I need to fill.)
