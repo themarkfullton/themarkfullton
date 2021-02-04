@@ -2,9 +2,9 @@
 
 # MARK FULLTON
 
-## Sorry for the Mess! Currently Re-Organizing!
+## Currently Re-Organizing
 
-### Data Analytics and Full Stack Web tutor | Data Analytics (Python/R) Teacher's Assistant | Freelance Web Dev | Golang/Docker/Python enthusiast
+### Data Analytics and Full Stack Web tutor | Data Analytics (Python) Teacher's Assistant | Freelance Web Dev | Golang/Docker/Python enthusiast
             
 [WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/)
 
