@@ -2,23 +2,9 @@
 
 # MARK FULLTON
 
-## Currently Re-Organizing
+## Currently Re-Organizing (Most repos / projects currently hidden)
 
 ### Data Analytics and Full Stack Web tutor | Data Analytics (Python) Teacher's Assistant | Freelance Web Dev | Golang/Docker/Python enthusiast
-            
-[WakaTime](https://wakatime.com/@themarkfullton) | [Portfolio](https://themarkfullton.github.io/vue-portfolio/) | [Codewars](https://www.codewars.com/users/Duskconductor) | [Leetcode](https://leetcode.com/duskconductor/)
-
-
-A feral programmer weened off the teets of library books and search engines in the process of becoming "cultured."* Worked odd jobs freelance for four+ years and now working toward stabilizing profession. Currently working as a tutor and teacher's assistant. 
-
-Passionate about Data Analysis, Dev Ops (Primary experience with Docker and Go), 2D Game Dev, Machine Learning, Software Engineering, and Web Dev.  
-
-Obsessed with math, programming, and symbolic logic.
-
-Knowledge tends towards being breadth-first (as opposed to depth-first) but that problem is in the process of being debugged. :-) 
-
-
-* Enrolling in classes and self-studying the classics (Knuth, Lafore, etc)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,html,vue&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
