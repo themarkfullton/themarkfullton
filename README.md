@@ -1,11 +1,9 @@
-<img src="https://github.com/themarkfullton/portfolio/blob/master/public/images/adventureBanner.png?raw=true">
-
 # MARK FULLTON
 
 ## Currently Re-Organizing
 
-As you can see, most everything here has been hidden.
+Cleaning / re-organizing projects and repos to better represent skillset.
 
-I'm cleaning / re-organizing projects and repos to better represent my skillset.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkfullton&langs_count=8&hide=handlebars,css,scss,html&count_private=true&layout=compact)]
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=themarkfullton)](https://github.com/anuraghazra/github-readme-stats)
