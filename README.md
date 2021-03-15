@@ -4,6 +4,8 @@
 
 ## Currently Reorganizing
 
+<a href="http://mfullton.s3-website-us-west-1.amazonaws.com/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/mark-fullton/" target="_blank">LinkedIn</a> | <a href="https://www.codewars.com/users/Duskconductor" target="_blank">CodeWars</a> | <a href="https://leetcode.com/duskConductor/" target="_blank">LeetCode</a>
+
 ### Tutoring Repos
 <ul>
 <li><a href="https://github.com/therichierich/basic-git-commands" target="_blank">Basic Git Commands</a> Teaching students the basics of Git / Version Control</li>
@@ -39,6 +41,7 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <ul>
+<li><a href="https://github.com/themarkfullton/newPort" target="_blank">Web Portfolio</a> React SPA; Hosted on AWS S3 via CodePipeline</li>
 <li><a href="https://github.com/themarkfullton/transformation-app-v2" target="_blank">Tranformation App</a> React Front End for Golang Back End (discontinued non-profit work)</li>
 <li><a href="https://github.com/themarkfullton/Arena-Game" target="_blank">Arena Game</a> JQuery Only (No Back End); RPG game to amuse friends</li>
 <li><a href="https://github.com/themarkfullton/balmy-la-webscraper" target="_blank">Balmy LA Webscraper</a> Webscraper with Mongo backend; created to complain about LA weather during quarantine</li>
