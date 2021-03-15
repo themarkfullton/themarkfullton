@@ -1,6 +1,6 @@
 # Hey, I'm Mark
 
-## I'm obsessed with building cool things and learning new things
+## I'm obsessed with building things and learning new things
 
 ## Currently Reorganizing
 
