@@ -2,7 +2,7 @@
 
 ## I'm obsessed with building && learning things
 
-My background is in **Full Stack Web Development** and **Data Engineering**, but I prefer working with lower level programming language and am attempting to upskill in them.
+My background is in **Full Stack Web Development** and **Data Engineering** (and animation haha), but I prefer working with lower level programming language and am attempting to upskill in them.
 
 Currently, I work as a **Teacher's Assistant** for a Data Analytics course and tutor both Data Analytics and Full Stack students.
 
